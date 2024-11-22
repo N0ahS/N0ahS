@@ -1,6 +1,5 @@
 ## Hi there 👋
--I’m currently a Student at FH Wels
--I’m currently learning C#
+-I’m currently a Student at FH Wels and learning C#
 
 <!--
 **N0ahS/N0ahS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
